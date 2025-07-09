@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theunderdogdev" alt="theunderdogdev" /></a> </p>
 
-- 🧑🏻‍💻 I work with, for **@[Dell-Technologies](https://github.com/dell)**
-
 - 💬 Ask me about **React, Flask, Tensorflow, Transformers, NumPy**
 
 - 📫 How to reach me **thedevs3301@gmail.com**
